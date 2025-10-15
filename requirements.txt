@@ -1,0 +1,8 @@
+wikipedia
+ddgs  # Updated from duckduckgo-search to ddgs
+flask
+python-dotenv
+requests
+langchain
+langchain-community
+beautifulsoup4
